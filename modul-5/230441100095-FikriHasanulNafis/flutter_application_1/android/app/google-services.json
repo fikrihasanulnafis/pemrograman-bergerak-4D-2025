@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "78295280952",
+    "project_id": "pelanggan-f515f",
+    "storage_bucket": "pelanggan-f515f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78295280952:android:09a57484bdddc5f558a5cd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEGyWOaNu977zAWLDRjBrl-4mFEjgHhjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78295280952:android:0c2d3d54f9f8139958a5cd",
+        "android_client_info": {
+          "package_name": "com.example.fluttercreateapp_firebasecli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEGyWOaNu977zAWLDRjBrl-4mFEjgHhjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
